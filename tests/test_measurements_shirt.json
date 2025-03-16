@@ -1,0 +1,11 @@
+{
+    "design_type": "shirt",
+    "measurements": {
+        "chest": 96.5,
+        "waist": 82.0,
+        "hip": 98.0,
+        "shoulder": 45.5,
+        "sleeve": 65.0,
+        "length": 70.0
+    }
+}
