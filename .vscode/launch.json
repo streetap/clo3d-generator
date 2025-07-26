@@ -9,7 +9,7 @@
             "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/clo3d_generator/cli.py",
-            "args": ["tests/test_measurements_shirt.json", "shirt"],
+            "args": ["-v", "tests/test_measurements_shirt.json", "shirt"],
             "console": "integratedTerminal",
             "justMyCode": true
         }
